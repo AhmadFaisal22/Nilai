@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nilai</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="nilai_tugas">Nilai Tugas</string>
+    <string name="nilai_uts">Nilai UTS</string>
+    <string name="nilai_uas">Nilai UAS</string>
+    <string name="nilai_akhir">Nilai Akhir</string>
+    <string name="nilai_huruf">Nilai Huruf</string>
+    <string name="hitung">HITUNG</string>
+    <string name="keluar">KELUAR</string>
+    <string name="_30">30%</string>
+    <string name="_35">35%</string>
+</resources>
